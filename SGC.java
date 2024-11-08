@@ -1,6 +1,6 @@
 import java.util.Scanner;
-public class task2 {
-    public static void main(String[] args) {
+public class SGC{
+        public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("*******************Student grade Calculator**************");
         System.out.println("Enter the number of subjects:");
